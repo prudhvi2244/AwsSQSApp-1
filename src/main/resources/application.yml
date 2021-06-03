@@ -1,0 +1,9 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:      access-key: AKIAXJW6FTO55K6DXSFE 
+      secret-key: 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
+    end-point:
+      uri: https://sqs.ap-south-1.amazonaws.com/501903367099/my-queue-3
